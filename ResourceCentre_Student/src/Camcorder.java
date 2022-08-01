@@ -8,7 +8,7 @@ private int opticalZoom;
 	}
 
 	public int getOpticalZoom() {
-		return opticalZoom;
+		return opticalZoo;
 	}
 	
 	public String toString(){
